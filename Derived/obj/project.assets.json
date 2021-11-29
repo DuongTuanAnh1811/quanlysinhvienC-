@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\hocthem\\Derived\\Derived\\Derived\\Derived.csproj",
+      "projectUniqueName": "D:\\hocthem\\quanlysinhvienC#\\quanlysinhvienC-\\Derived\\Derived.csproj",
       "projectName": "Derived",
-      "projectPath": "D:\\hocthem\\Derived\\Derived\\Derived\\Derived.csproj",
+      "projectPath": "D:\\hocthem\\quanlysinhvienC#\\quanlysinhvienC-\\Derived\\Derived.csproj",
       "packagesPath": "C:\\Users\\Duong Tuan Anh\\.nuget\\packages\\",
-      "outputPath": "D:\\hocthem\\Derived\\Derived\\Derived\\obj\\",
+      "outputPath": "D:\\hocthem\\quanlysinhvienC#\\quanlysinhvienC-\\Derived\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Duong Tuan Anh\\AppData\\Roaming\\NuGet\\NuGet.Config",
