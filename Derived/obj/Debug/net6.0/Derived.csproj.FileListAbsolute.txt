@@ -1,0 +1,15 @@
+D:\hocthem\Derived\Derived\Derived\bin\Debug\net6.0\Derived.exe
+D:\hocthem\Derived\Derived\Derived\bin\Debug\net6.0\Derived.deps.json
+D:\hocthem\Derived\Derived\Derived\bin\Debug\net6.0\Derived.runtimeconfig.json
+D:\hocthem\Derived\Derived\Derived\bin\Debug\net6.0\Derived.dll
+D:\hocthem\Derived\Derived\Derived\bin\Debug\net6.0\ref\Derived.dll
+D:\hocthem\Derived\Derived\Derived\bin\Debug\net6.0\Derived.pdb
+D:\hocthem\Derived\Derived\Derived\obj\Debug\net6.0\Derived.csproj.AssemblyReference.cache
+D:\hocthem\Derived\Derived\Derived\obj\Debug\net6.0\Derived.GeneratedMSBuildEditorConfig.editorconfig
+D:\hocthem\Derived\Derived\Derived\obj\Debug\net6.0\Derived.AssemblyInfoInputs.cache
+D:\hocthem\Derived\Derived\Derived\obj\Debug\net6.0\Derived.AssemblyInfo.cs
+D:\hocthem\Derived\Derived\Derived\obj\Debug\net6.0\Derived.csproj.CoreCompileInputs.cache
+D:\hocthem\Derived\Derived\Derived\obj\Debug\net6.0\Derived.dll
+D:\hocthem\Derived\Derived\Derived\obj\Debug\net6.0\ref\Derived.dll
+D:\hocthem\Derived\Derived\Derived\obj\Debug\net6.0\Derived.pdb
+D:\hocthem\Derived\Derived\Derived\obj\Debug\net6.0\Derived.genruntimeconfig.cache
